@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/nicola-naber-portfolio/precache-manifest.9259b89511e543e3230511fdbc635b05.js"
+  "/nicola-naber-portfolio/precache-manifest.e1649eaee78a45619ee47771e8f22b50.js"
 );
 
 self.addEventListener('message', (event) => {
