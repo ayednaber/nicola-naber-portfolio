@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e2a05d227a1efed036e20a8e2d5c0018",
+    "revision": "e7e80f0901078a8a14ec32590efb8cc5",
     "url": "/nicola-naber-portfolio/index.html"
   },
   {
-    "revision": "71c78c66b81ecb31447d",
-    "url": "/nicola-naber-portfolio/static/css/main.b1d7903c.chunk.css"
+    "revision": "61b6bfdeb1c8a1a28e76",
+    "url": "/nicola-naber-portfolio/static/css/main.88b94407.chunk.css"
   },
   {
     "revision": "b3d5cba22dfc3369ee3d",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/nicola-naber-portfolio/static/js/2.be8ead56.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "71c78c66b81ecb31447d",
-    "url": "/nicola-naber-portfolio/static/js/main.ee000008.chunk.js"
+    "revision": "61b6bfdeb1c8a1a28e76",
+    "url": "/nicola-naber-portfolio/static/js/main.a0a90747.chunk.js"
   },
   {
     "revision": "fb56374b0519aa7dbb36",
