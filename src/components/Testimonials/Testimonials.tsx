@@ -2,6 +2,7 @@ import React, { useState } from "react";
 import "./Testimonials.scss";
 import image1 from "../../assets/images/model-man.jpg";
 import image2 from "../../assets/images/model-woman-2.jpg";
+import image3 from "../../assets/images/_DSC3622.jpg";
 import { ArrowRight } from "../../svgs/Svgs";
 import { motion, useAnimation } from "framer-motion";
 import {

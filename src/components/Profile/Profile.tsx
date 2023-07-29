@@ -1,5 +1,7 @@
 import React from "react";
 import "./Profile.scss";
+import {FaPhoneAlt} from "react-icons/fa";
+import {AiOutlineMail} from "react-icons/ai";
 
 const Profile = () => (
   <div className="profile" id="profile">
@@ -19,6 +21,16 @@ const Profile = () => (
         libero in? Sequi. Lorem ipsum, dolor sit amet consectetur adipisicing
         elit. Nostrum, illo.
       </p>
+    </div>
+    <div className="contact-buttons">
+      <button className="contact-button" onClick={() => window.location.href = 'tel:+962796724238'}>
+        <FaPhoneAlt />
+        <p style={{marginLeft: 10}}>+962 7 9672 4238</p>
+      </button>
+      <button className="contact-button" onClick={() => window.location.href = 'mailto:nabernicola04@gmail.com'}>
+        <AiOutlineMail />
+        <p style={{marginLeft: 10}}>nabernicola04@gmail.com</p>
+      </button>
     </div>
   </div>
 );

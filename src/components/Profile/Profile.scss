@@ -9,6 +9,31 @@
     padding: 30px 0;
   }
 
+  .contact-buttons {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .contact-button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+    background-color: #c29590;
+    color: white;
+    font-family: "DM Sans", sans-serif;
+    border: none;
+    margin-right: 10px;
+    width: 230px;
+    cursor: pointer;
+    border-radius: 20px;
+  }
+
+  .contact-button:hover {
+    background-color: #a37d77;
+  }
+
   .left-container {
     width: 30%;
 

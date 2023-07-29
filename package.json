@@ -12,10 +12,12 @@
     "@types/react-dom": "^16.9.0",
     "framer-motion": "^2.4.2",
     "react": "^16.13.1",
+    "react-bootstrap": "^2.8.0",
     "react-dom": "^16.13.1",
+    "react-icons": "^4.10.1",
     "react-scripts": "3.4.3",
     "sass": "^1.26.10",
-    "typescript": "~3.7.2"
+    "typescript": "~3.8.0"
   },
   "scripts": {
     "start": "react-scripts start",

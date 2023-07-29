@@ -1,6 +1,7 @@
 import React from "react";
 import "./Banner.scss";
-import model from "../../assets/images/model-woman.jpg";
+// import model from "../../assets/images/model-woman.jpg";
+import model from "../../assets/images/front.jpg";
 import { motion } from "framer-motion";
 import { Arrow } from "../../svgs/Svgs";
 import {
@@ -23,7 +24,7 @@ const Banner = () => (
       <div>
         <div className="name-wrapper">
           <motion.p variants={nameVariant} className="name">
-            <span>Audrey</span> Khaled
+            <span>Nicola</span> Naber
           </motion.p>
         </div>
         <motion.p variants={descriptionVariant} className="description">
