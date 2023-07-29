@@ -10,7 +10,7 @@ const Profile = () => (
     </div>
     <div className="right-container">
       <p className="label-1">
-      Hello, I am an aspiring model at the dawn of my career, full of energy and commitment to the fashion industry. My modeling journey started with a genuine passion for aesthetics and art, which I aim to reflect in every project I engage in.
+      Hello, I am an aspiring model at the dawn of my career, full of energy and commitment. My modeling journey started with a genuine passion for aesthetics and art, which I aim to reflect in every project I engage in.
       </p>
       <p className="label-1">
       Though a newcomer, I am not afraid to step out of my comfort zone and am always eager to learn and adapt to new trends and styles. My goal is to deliver a fresh perspective and authenticity to every assignment, aiming to leave a unique imprint in the modeling field.

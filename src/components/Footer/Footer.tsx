@@ -1,7 +1,7 @@
 import React from "react";
 import "./Footer.scss";
 
-const socials = ["instagram", "twitter", "linkedin"];
+const socials = ["instagram", "facebook"];
 
 const Footer = () => (
   <footer>
@@ -10,7 +10,7 @@ const Footer = () => (
       <div className="row">
         {socials.map((social, index) => (
           <div className="row" key={index}>
-            <p className="link" onClick={() => social === "instagram" ? window.location.href = 'https://www.instagram.com/nicolanaber/' : '' }>{social}</p>
+            <p className="link" onClick={() => social === "instagram" ? window.open('https://www.instagram.com/nicolanaber/') : window.open('https://www.facebook.com/profile.php?id=100006120510287') }>{social}</p>
             {index !== socials.length - 1 && <div className="separator" />}
           </div>
         ))}

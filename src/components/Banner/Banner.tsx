@@ -28,7 +28,7 @@ const Banner = () => (
           </motion.p>
         </div>
         <motion.p variants={descriptionVariant} className="description">
-          fashion model
+          model
         </motion.p>
       </div>
       <a href="#profile">
