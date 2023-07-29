@@ -13,6 +13,13 @@
     display: flex;
     align-items: center;
     justify-content: center;
+
+    @media (max-width: 850px) {
+      flex-direction: column;
+      align-items: center;
+      margin-left: 18%;
+      margin-top: 20px;
+    }
   }
 
   .contact-button {
@@ -28,10 +35,19 @@
     width: 230px;
     cursor: pointer;
     border-radius: 20px;
+
+    @media (max-width: 850px) {
+      margin-bottom: 10px;
+    }
   }
 
   .contact-button:hover {
     background-color: #a37d77;
+  }
+
+  .contact-text {
+    font-family: 'DM Sans', sans-serif;
+    margin-left: 10px;
   }
 
   .left-container {

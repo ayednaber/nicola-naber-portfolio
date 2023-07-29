@@ -10,26 +10,20 @@ const Profile = () => (
     </div>
     <div className="right-container">
       <p className="label-1">
-        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sequi
-        inventore eaque unde ad, neque sapiente magnam praesentium dolorum
-        impedit in corrupti molestias, suscipit placeat fuga quis illum
-        recusandae laboriosam et.
+      Hello, I am an aspiring model at the dawn of my career, full of energy and commitment to the fashion industry. My modeling journey started with a genuine passion for aesthetics and art, which I aim to reflect in every project I engage in.
       </p>
       <p className="label-1">
-        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Eaque
-        praesentium dolores voluptatem quia exercitationem est quasi dolor
-        libero in? Sequi. Lorem ipsum, dolor sit amet consectetur adipisicing
-        elit. Nostrum, illo.
+      Though a newcomer, I am not afraid to step out of my comfort zone and am always eager to learn and adapt to new trends and styles. My goal is to deliver a fresh perspective and authenticity to every assignment, aiming to leave a unique imprint in the modeling field.
       </p>
     </div>
     <div className="contact-buttons">
       <button className="contact-button" onClick={() => window.location.href = 'tel:+962796724238'}>
         <FaPhoneAlt />
-        <p style={{marginLeft: 10}}>+962 7 9672 4238</p>
+        <p className="contact-text">+962 7 9672 4238</p>
       </button>
       <button className="contact-button" onClick={() => window.location.href = 'mailto:nabernicola04@gmail.com'}>
         <AiOutlineMail />
-        <p style={{marginLeft: 10}}>nabernicola04@gmail.com</p>
+        <p className="contact-text">nabernicola04@gmail.com</p>
       </button>
     </div>
   </div>
