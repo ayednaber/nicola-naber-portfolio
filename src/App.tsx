@@ -20,12 +20,14 @@ import image15 from "./assets/images/DSC3704.jpg";
 import image16 from "./assets/images/DSC3710.jpg";
 import image17 from "./assets/images/DSC3722.jpg";
 import image18 from "./assets/images/DSC3728.jpg";
+import ModelMeasurements from "./components/Measurements/Measurements";
 
 function App() {
   return (
     <>
       <Banner />
       <Profile />
+      <ModelMeasurements height={185} chest={99.6} abdomen={87.9} hip={100.2} />
       <ImageGallery images={[image1,image2,image3,image4,image5,image6,image7,image8,image9,image10,image11,image12,image13,image14,image15,image16,image17,image18]} />
       {/* <Testimonials /> */}
       <Footer />
