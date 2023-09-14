@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c66f7bdb4b209258c2399a5a74bb49cb",
+    "revision": "8c3705b5f377107d3c2437b973c31b87",
     "url": "/nicola-naber-portfolio/index.html"
   },
   {
-    "revision": "6a2fb7b9e7540828061b",
-    "url": "/nicola-naber-portfolio/static/css/main.88b94407.chunk.css"
+    "revision": "7ee3eeb1953854ce0587",
+    "url": "/nicola-naber-portfolio/static/css/main.5158fdda.chunk.css"
   },
   {
-    "revision": "b3d5cba22dfc3369ee3d",
-    "url": "/nicola-naber-portfolio/static/js/2.be8ead56.chunk.js"
+    "revision": "fe089512fd3e6c144976",
+    "url": "/nicola-naber-portfolio/static/js/2.4a0c799a.chunk.js"
   },
   {
     "revision": "1e4333c3adde2a511ddef0add373dc0a",
-    "url": "/nicola-naber-portfolio/static/js/2.be8ead56.chunk.js.LICENSE.txt"
+    "url": "/nicola-naber-portfolio/static/js/2.4a0c799a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "6a2fb7b9e7540828061b",
-    "url": "/nicola-naber-portfolio/static/js/main.f1375baa.chunk.js"
+    "revision": "7ee3eeb1953854ce0587",
+    "url": "/nicola-naber-portfolio/static/js/main.f8fadb3a.chunk.js"
   },
   {
     "revision": "fb56374b0519aa7dbb36",
