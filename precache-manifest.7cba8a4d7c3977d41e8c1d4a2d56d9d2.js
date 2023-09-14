@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8c3705b5f377107d3c2437b973c31b87",
+    "revision": "6794f359c6bb00e11ca69f9a166287bc",
     "url": "/nicola-naber-portfolio/index.html"
   },
   {
-    "revision": "7ee3eeb1953854ce0587",
+    "revision": "53ef00f50f2bf5a9e1cc",
     "url": "/nicola-naber-portfolio/static/css/main.5158fdda.chunk.css"
   },
   {
-    "revision": "fe089512fd3e6c144976",
-    "url": "/nicola-naber-portfolio/static/js/2.4a0c799a.chunk.js"
+    "revision": "3bccaae0e028b8a679af",
+    "url": "/nicola-naber-portfolio/static/js/2.a342646c.chunk.js"
   },
   {
     "revision": "1e4333c3adde2a511ddef0add373dc0a",
-    "url": "/nicola-naber-portfolio/static/js/2.4a0c799a.chunk.js.LICENSE.txt"
+    "url": "/nicola-naber-portfolio/static/js/2.a342646c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "7ee3eeb1953854ce0587",
-    "url": "/nicola-naber-portfolio/static/js/main.f8fadb3a.chunk.js"
+    "revision": "53ef00f50f2bf5a9e1cc",
+    "url": "/nicola-naber-portfolio/static/js/main.98b1840b.chunk.js"
   },
   {
     "revision": "fb56374b0519aa7dbb36",
@@ -100,11 +100,43 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/nicola-naber-portfolio/static/media/front.d1837e1e.jpg"
   },
   {
-    "revision": "9e35731adea05f7a0118f493ccd87552",
-    "url": "/nicola-naber-portfolio/static/media/model-man.9e35731a.jpg"
+    "revision": "134f5c28c476dcb6131a59873439246c",
+    "url": "/nicola-naber-portfolio/static/media/image00001.134f5c28.jpeg"
   },
   {
-    "revision": "8ba7516ee21d9b69c40cb4ef0ea02c0b",
-    "url": "/nicola-naber-portfolio/static/media/model-woman-2.8ba7516e.jpg"
+    "revision": "db6202f413e81667f258962d4cd20096",
+    "url": "/nicola-naber-portfolio/static/media/image00004.db6202f4.jpeg"
+  },
+  {
+    "revision": "73c5acd498844d8b0a840afa094f7eeb",
+    "url": "/nicola-naber-portfolio/static/media/image00005.73c5acd4.jpeg"
+  },
+  {
+    "revision": "db1a894c233b68be82bf18319fcc58c8",
+    "url": "/nicola-naber-portfolio/static/media/image00010.db1a894c.jpeg"
+  },
+  {
+    "revision": "3b84e6709e1ebef6f2430c4b98f403c1",
+    "url": "/nicola-naber-portfolio/static/media/image00013.3b84e670.jpeg"
+  },
+  {
+    "revision": "4191c6cffe1c90c1689da77fcfe6d614",
+    "url": "/nicola-naber-portfolio/static/media/image00019.4191c6cf.jpeg"
+  },
+  {
+    "revision": "790fd2674b6ddce365a6c094ce42473e",
+    "url": "/nicola-naber-portfolio/static/media/image00023.790fd267.jpeg"
+  },
+  {
+    "revision": "1864442ee1778ffd07da2a0d89f5aa6f",
+    "url": "/nicola-naber-portfolio/static/media/image00024.1864442e.jpeg"
+  },
+  {
+    "revision": "38ccb2bd3ca121646d129581a288f716",
+    "url": "/nicola-naber-portfolio/static/media/image00026.38ccb2bd.jpeg"
+  },
+  {
+    "revision": "89e7750c73aca9847663e79ff62d9e90",
+    "url": "/nicola-naber-portfolio/static/media/image00036.89e7750c.jpeg"
   }
 ]);
