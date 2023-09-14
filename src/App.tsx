@@ -20,6 +20,17 @@ import image15 from "./assets/images/DSC3704.jpg";
 import image16 from "./assets/images/DSC3710.jpg";
 import image17 from "./assets/images/DSC3722.jpg";
 import image18 from "./assets/images/DSC3728.jpg";
+// Importing photos from second photoshoot
+import picture1 from "./assets/images/image00001.jpeg";
+import picture2 from "./assets/images/image00004.jpeg";
+import picture3 from "./assets/images/image00005.jpeg";
+import picture4 from "./assets/images/image00010.jpeg";
+import picture5 from "./assets/images/image00013.jpeg";
+import picture6 from "./assets/images/image00019.jpeg";
+import picture7 from "./assets/images/image00023.jpeg";
+import picture8 from "./assets/images/image00024.jpeg";
+import picture9 from "./assets/images/image00026.jpeg";
+import picture10 from "./assets/images/image00036.jpeg";
 import ModelMeasurements from "./components/Measurements/Measurements";
 
 function App() {
@@ -28,8 +39,9 @@ function App() {
       <Banner />
       <Profile />
       <ModelMeasurements height={185} chest={99.6} abdomen={87.9} hip={100.2} />
-      <ImageGallery images={[image1,image2,image3,image4,image5,image6,image7,image8,image9,image10,image11,image12,image13,image14,image15,image16,image17,image18]} />
+      <ImageGallery title="Photoshoot 1" images={[image1,image2,image3,image4,image5,image6,image7,image8,image9,image10,image11,image12,image13,image14,image15,image16,image17,image18]} />
       {/* <Testimonials /> */}
+      <ImageGallery title="Photoshoot 2" images={[picture1, picture2, picture3, picture4, picture5, picture6, picture7, picture10, picture9, picture8]} />
       <Footer />
     </>
   );

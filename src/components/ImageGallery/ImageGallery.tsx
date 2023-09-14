@@ -75,10 +75,11 @@ const ImageModal: React.FC<ImageModalProps> = ({ show, onHide, imgSrc }) => (
 );
 
 interface ImageGalleryProps {
+  title: string; // The title of the gallery
   images: string[]; // Array of image URLs
 }
 
-const ImageGallery: React.FC<ImageGalleryProps> = ({ images }) => {
+const ImageGallery: React.FC<ImageGalleryProps> = ({ title, images }) => {
   const [activeImage, setActiveImage] = useState('');
   const [open, setOpen] = useState(false);
 
@@ -93,7 +94,7 @@ const ImageGallery: React.FC<ImageGalleryProps> = ({ images }) => {
 
   return (
     <>
-    <p className="label">My Images</p>
+    <p className="label">{title}</p>
     <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fill, minmax(300px, 1fr))', gridGap: '10px' }}>
       {images.map((img, index) => (
         <Image key={index} src={img} onClick={() => handleOpen(img)} />
