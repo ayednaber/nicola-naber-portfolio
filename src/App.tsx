@@ -53,8 +53,8 @@ function App() {
       <ModelMeasurements height={185} chest={99.6} abdomen={87.9} hip={100.2} />
       <ImageGallery title="Photoshoot 1" images={[image1,image2,image3,image4,image5,image6,image7,image8,image9,image10,image11,image12,image13,image14,image15,image16,image17,image18]} />
       {/* <Testimonials /> */}
-      <ImageGallery title="Photoshoot 2" images={[picture1, picture2, picture3, picture4, picture5, picture6, picture7, picture10, picture9, picture8,
-      picture11,picture12,picture13,picture14,picture15,picture16,picture17,picture18,picture19,picture20,picture21,picture22]} />
+      <ImageGallery title="Photoshoot 2" images={[picture1, picture2, picture3, picture4, picture5, picture6, picture7, picture10,
+      picture11,picture12,picture13,picture14,picture15,picture16,picture17,picture18,picture19,picture20,picture21,picture22, picture9, picture8]} />
       <Footer />
     </>
   );
