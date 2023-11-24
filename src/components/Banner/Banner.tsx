@@ -2,6 +2,8 @@ import React from "react";
 import "./Banner.scss";
 // import model from "../../assets/images/model-woman.jpg";
 import model from "../../assets/images/front.jpg";
+import front1 from "../../assets/images/front1.jpg";
+import front2 from "../../assets/images/front2.jpg";
 import { motion } from "framer-motion";
 import { Arrow } from "../../svgs/Svgs";
 import {
@@ -48,7 +50,7 @@ const Banner = () => (
     </div>
     <motion.div className="image">
       <motion.div className="overlay" variants={overlayVariant} />
-      <motion.img variants={imageVariant} src={model} alt="Model" />
+      <motion.img variants={imageVariant} src={front1} alt="Model" className="bannerImg"  />
     </motion.div>
   </motion.div>
 );
