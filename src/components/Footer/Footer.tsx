@@ -18,13 +18,12 @@ const Footer = () => (
     </div>
     <div className="section">
       <p className="title">Email</p>
-      <p className="link mail" onClick={() => window.location.href = 'mailto:nabernicola04@gmail.com'}>nabernicola04@gmail.com</p>
+      <p className="link mail" onClick={() => window.location.href = 'mailto:nabernicola00@gmail.com'}>nabernicola00@gmail.com</p>
     </div>
-    <div className="section">
+    {/* <div className="section">
       <p className="title">Phone</p>
       <p className="link" onClick={() => window.location.href = 'tel:+962796724238'}>+962 7 9672 4238</p>
-      {/* <p className="link mail">jesse@bloom.com</p> */}
-    </div>
+    </div> */}
   </footer>
 );
 

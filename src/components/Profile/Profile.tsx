@@ -17,13 +17,13 @@ const Profile = () => (
       </p>
     </div>
     <div className="contact-buttons">
-      <button className="contact-button" onClick={() => window.location.href = 'tel:+962796724238'}>
+      {/* <button className="contact-button" onClick={() => window.location.href = 'tel:+962796724238'}>
         <FaPhoneAlt />
         <p className="contact-text">+962 7 9672 4238</p>
-      </button>
-      <button className="contact-button" onClick={() => window.location.href = 'mailto:nabernicola04@gmail.com'}>
+      </button> */}
+      <button className="contact-button" onClick={() => window.location.href = 'mailto:nabernicola00@gmail.com'}>
         <AiOutlineMail />
-        <p className="contact-text">nabernicola04@gmail.com</p>
+        <p className="contact-text">nabernicola00@gmail.com</p>
       </button>
     </div>
   </div>

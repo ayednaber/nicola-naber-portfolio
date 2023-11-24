@@ -97,9 +97,10 @@ const ImageGallery: React.FC<ImageGalleryProps> = ({ title, images }) => {
     <p className="label">{title}</p>
     <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fill, minmax(300px, 1fr))', gridGap: '10px' }}>
       {images.map((img, index) => (
-        <Image key={index} src={img} onClick={() => handleOpen(img)} />
+        <Image key={index} src={img} onClick={() => {}} />
+        // <Image key={index} src={img} onClick={() => handleOpen(img)} />
       ))}
-      <ImageModal show={open} onHide={handleClose} imgSrc={activeImage} />
+      {/* <ImageModal show={open} onHide={handleClose} imgSrc={activeImage} /> */}
     </div>
     </>
   );
