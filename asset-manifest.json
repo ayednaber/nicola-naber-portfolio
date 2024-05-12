@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/nicola-naber-portfolio/static/css/main.103c2bcc.chunk.css",
-    "main.js": "/nicola-naber-portfolio/static/js/main.3d9ae140.chunk.js",
-    "main.js.map": "/nicola-naber-portfolio/static/js/main.3d9ae140.chunk.js.map",
+    "main.css": "/nicola-naber-portfolio/static/css/main.9c13c013.chunk.css",
+    "main.js": "/nicola-naber-portfolio/static/js/main.e0df1b76.chunk.js",
+    "main.js.map": "/nicola-naber-portfolio/static/js/main.e0df1b76.chunk.js.map",
     "runtime-main.js": "/nicola-naber-portfolio/static/js/runtime-main.3904167f.js",
     "runtime-main.js.map": "/nicola-naber-portfolio/static/js/runtime-main.3904167f.js.map",
-    "static/js/2.e0ad4ef3.chunk.js": "/nicola-naber-portfolio/static/js/2.e0ad4ef3.chunk.js",
-    "static/js/2.e0ad4ef3.chunk.js.map": "/nicola-naber-portfolio/static/js/2.e0ad4ef3.chunk.js.map",
+    "static/js/2.c7696858.chunk.js": "/nicola-naber-portfolio/static/js/2.c7696858.chunk.js",
+    "static/js/2.c7696858.chunk.js.map": "/nicola-naber-portfolio/static/js/2.c7696858.chunk.js.map",
     "index.html": "/nicola-naber-portfolio/index.html",
-    "precache-manifest.0c8380540e3406b47b5088a296be10e7.js": "/nicola-naber-portfolio/precache-manifest.0c8380540e3406b47b5088a296be10e7.js",
+    "precache-manifest.9a0f0958e08862cbb9c5a0f5aa9998e7.js": "/nicola-naber-portfolio/precache-manifest.9a0f0958e08862cbb9c5a0f5aa9998e7.js",
     "service-worker.js": "/nicola-naber-portfolio/service-worker.js",
-    "static/css/main.103c2bcc.chunk.css.map": "/nicola-naber-portfolio/static/css/main.103c2bcc.chunk.css.map",
-    "static/js/2.e0ad4ef3.chunk.js.LICENSE.txt": "/nicola-naber-portfolio/static/js/2.e0ad4ef3.chunk.js.LICENSE.txt",
+    "static/css/main.9c13c013.chunk.css.map": "/nicola-naber-portfolio/static/css/main.9c13c013.chunk.css.map",
+    "static/js/2.c7696858.chunk.js.LICENSE.txt": "/nicola-naber-portfolio/static/js/2.c7696858.chunk.js.LICENSE.txt",
     "static/media/DSC3622.jpg": "/nicola-naber-portfolio/static/media/DSC3622.d2c75079.jpg",
     "static/media/DSC3623.jpg": "/nicola-naber-portfolio/static/media/DSC3623.5a082416.jpg",
     "static/media/DSC3632.jpg": "/nicola-naber-portfolio/static/media/DSC3632.0a8a6ed7.jpg",
@@ -22,19 +22,19 @@
     "static/media/SKLC8066.jpg": "/nicola-naber-portfolio/static/media/SKLC8066.3dd468e3.jpg",
     "static/media/SKLC8119.jpg": "/nicola-naber-portfolio/static/media/SKLC8119.b4222afa.jpg",
     "static/media/SKLC8162.jpg": "/nicola-naber-portfolio/static/media/SKLC8162.34253848.jpg",
-    "static/media/front1.jpg": "/nicola-naber-portfolio/static/media/front1.74bc2af7.jpg",
+    "static/media/front3updated.jpg": "/nicola-naber-portfolio/static/media/front3updated.252b8a16.jpg",
     "static/media/image00001.jpeg": "/nicola-naber-portfolio/static/media/image00001.134f5c28.jpeg",
     "static/media/image00003.jpeg": "/nicola-naber-portfolio/static/media/image00003.96708d9c.jpeg",
     "static/media/image00006.jpeg": "/nicola-naber-portfolio/static/media/image00006.76d3e3d2.jpeg",
     "static/media/image00009.jpeg": "/nicola-naber-portfolio/static/media/image00009.e0a48cc3.jpeg",
     "static/media/image00010.jpeg": "/nicola-naber-portfolio/static/media/image00010.db1a894c.jpeg",
-    "static/media/image00023.jpeg": "/nicola-naber-portfolio/static/media/image00023.790fd267.jpeg",
-    "static/media/image00084.jpeg": "/nicola-naber-portfolio/static/media/image00084.f1b13af3.jpeg"
+    "static/media/image00013.jpeg": "/nicola-naber-portfolio/static/media/image00013.31802f06.jpeg",
+    "static/media/image00023.jpeg": "/nicola-naber-portfolio/static/media/image00023.790fd267.jpeg"
   },
   "entrypoints": [
     "static/js/runtime-main.3904167f.js",
-    "static/js/2.e0ad4ef3.chunk.js",
-    "static/css/main.103c2bcc.chunk.css",
-    "static/js/main.3d9ae140.chunk.js"
+    "static/js/2.c7696858.chunk.js",
+    "static/css/main.9c13c013.chunk.css",
+    "static/js/main.e0df1b76.chunk.js"
   ]
 }
