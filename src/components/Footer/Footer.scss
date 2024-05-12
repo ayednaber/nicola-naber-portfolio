@@ -18,6 +18,7 @@ footer {
       text-transform: uppercase;
       font-weight: 600;
       margin-bottom: 20px;
+      color: white;
 
       @media (max-width: 440px) {
         margin-bottom: 10px;
@@ -29,6 +30,7 @@ footer {
       cursor: pointer;
       font-size: 14px;
       transition: 0.3s ease all;
+      color: white;
 
       &:hover {
         color: grey;
@@ -37,6 +39,7 @@ footer {
 
     .mail {
       text-transform: none;
+      color: white;
     }
 
     .row {
@@ -47,7 +50,8 @@ footer {
         width: 2px;
         height: 14px;
         margin: 0 15px;
-        background-color: black;
+        color: white;
+        // background-color: black;
       }
     }
   }

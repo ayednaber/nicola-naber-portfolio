@@ -3,6 +3,8 @@ import "./Banner.scss";
 // import model from "../../assets/images/model-woman.jpg";
 import model from "../../assets/images/front.jpg";
 import front1 from "../../assets/images/front1.jpg";
+import front3 from "../../assets/images/bw/front3.jpg";
+import front3updated from "../../assets/images/bw/front3updated.jpg";
 import front2 from "../../assets/images/front2.jpg";
 import { motion } from "framer-motion";
 import { Arrow } from "../../svgs/Svgs";
@@ -30,7 +32,7 @@ const Banner = () => (
           </motion.p>
         </div>
         <motion.p variants={descriptionVariant} className="description">
-          model
+          <i>model</i>
         </motion.p>
       </div>
       <a href="#profile">
@@ -44,13 +46,13 @@ const Banner = () => (
           variants={buttonVariant}
           className="scroll-button"
         >
-          <Arrow size={20} color="#ffffff" />
+          <Arrow size={20} color="#000000" />
         </motion.div>
       </a>
     </div>
     <motion.div className="image">
       <motion.div className="overlay" variants={overlayVariant} />
-      <motion.img variants={imageVariant} src={front1} alt="Model" className="bannerImg"  />
+      <motion.img variants={imageVariant} src={front3updated} alt="Model" className="bannerImg"  />
     </motion.div>
   </motion.div>
 );

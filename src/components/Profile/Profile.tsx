@@ -6,13 +6,13 @@ import {AiOutlineMail} from "react-icons/ai";
 const Profile = () => (
   <div className="profile" id="profile">
     <div className="left-container">
-      <p className="label">About me</p>
+      <p className="label abouttxt abouttitle">About me</p>
     </div>
     <div className="right-container">
-      <p className="label-1">
+      <p className="label-1 abouttxt">
       Hello, I am an aspiring model at the dawn of my career, full of energy and commitment. My modeling journey started with a genuine passion for aesthetics and art, which I aim to reflect in every project I engage in.
       </p>
-      <p className="label-1">
+      <p className="label-1 abouttxt">
       Though a newcomer, I am not afraid to step out of my comfort zone and am always eager to learn and adapt to new trends and styles. My goal is to deliver a fresh perspective and authenticity to every assignment, aiming to leave a unique imprint in the modeling field.
       </p>
     </div>
